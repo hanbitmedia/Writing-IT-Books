@@ -1,5 +1,7 @@
 # <3분> 패턴
 
+<img src="https://github.com/WegraLee/Writing-IT-Books/blob/master/3%20Minutes/3_minutes_deep_learning.png?raw=true" width="300" align="right"></img>
+
 > “이론보다 코드로 먼저 배우는 개발자용 입문서! (짧은 예제 가득)”
 
 ### 풀려는 문제는 무엇인가?
