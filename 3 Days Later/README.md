@@ -19,3 +19,5 @@
 - 더 깊이 공부하고자 하는 사람을 위한 추가 학습 로드맵 제시
 
 다음은 <작심3일> 샘플북에 수록된 학습 일정표로, 이 패턴의 특징을 한눈에 보여줍니다.
+
+<img src="https://github.com/WegraLee/Writing-IT-Books/blob/master/3%20Days%20Later/%EC%9D%BC%EC%A0%95%ED%91%9C.png?raw=true" width="900">
