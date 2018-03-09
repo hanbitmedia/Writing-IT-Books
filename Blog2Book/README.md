@@ -1,5 +1,7 @@
 # <Blog2Book> 패턴
 
+<img src="https://github.com/WegraLee/Writing-IT-Books/blob/master/Blog2Book/smalltalk.png?raw=true" width="400" align="right"></img>
+
 > “블로그에서 바로 읽는 듯한 생생한 개발 노하우!”
 
 ### 풀려는 문제는 무엇인가?
