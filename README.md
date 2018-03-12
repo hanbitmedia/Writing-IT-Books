@@ -1,5 +1,21 @@
 # 프로그래머의 책쓰기: 나도 IT 책 잘 쓰면 소원이 없겠네!
 
+프로그래머를 위한 책쓰기 요령을 공유하는 저장소입니다.
+대부분 IT 책에 적용할 수 있는 범용 집필 가이드(프로그래머의 책쓰기)와 구체화된 특정 패턴을 다루는 패턴별 집필 가이드로 구성됩니다. 모든 자료는 피드백을 받아가며 지속해서 수정할 계획이며, 아직 수가 부족한 패턴별 가이드는 차차 하나씩 추가하겠습니다.
+
+**범용 가이드**
+
+- [프로그래머의 책쓰기](https://docs.google.com/document/d/1BSMTs2jEvQ8BJBhilnJ_QP7JOuifkxds3OcKhrKE5Co)
+
+**패턴별 가이드**
+
+- [작심3일](https://github.com/WegraLee/Writing-IT-Books/tree/master/3%20Days%20Later) - [집필 가이드](https://docs.google.com/presentation/d/1YmMycNs9kjtZL0eJ12M-EbjjoAd2x-hEoeiAPAHp3nc) / 샘플북 / [원고 템플릿](https://docs.google.com/document/d/1vbHEp6qoHGaNldRZ_fPl8G6rxDNHGzKwlMXchv6YdZw) ([간략 버전](https://docs.google.com/document/d/1YAeaIFkZ0Ql2ccSVAA-PoIjRMs-sttdOA4G6a0KbGvw)) / [프레젠테이션 템플릿](https://docs.google.com/presentation/d/17PpeoRzSp2tNB7ntVM_LTBKQo2nqji1QCQA1DNWuKds)
+- [3분](https://github.com/WegraLee/Writing-IT-Books/tree/master/3%20Minutes) - [집필 가이드](https://docs.google.com/presentation/d/15tVoiYsdh030GmUIoCYh3jXeUp9xLYQ3dDXtn4ztMa8)
+- [Blog2Book](https://github.com/WegraLee/Writing-IT-Books/tree/master/Blog2Book) - [집필 가이드](https://docs.google.com/presentation/d/1HrkfpDKUFda38gJvxkwT9dFgIs1-D-usDe7ajMxg8UE)
+
+아래는 <프로그래머의 책쓰기>의 서문입니다.
+
+
 ## 들어가며
 
 > “IT 책쓰기는 소프트웨어 개발과 매우 비슷하다!”
