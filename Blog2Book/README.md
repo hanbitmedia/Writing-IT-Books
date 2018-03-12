@@ -1,4 +1,4 @@
-# <Blog2Book> 패턴
+# \<Blog2Book> 패턴
 
 <img src="https://github.com/WegraLee/Writing-IT-Books/blob/master/Blog2Book/smalltalk.png?raw=true" width="400" align="right"></img>
 
