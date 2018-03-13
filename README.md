@@ -12,7 +12,7 @@ IT 책 대부분에 적용할 수 있는 범용 집필 가이드(프로그래머
 
 **패턴별 집필 가이드**
 
-- [작심3일](https://github.com/hanbitmedia/Writing-IT-Books/tree/master/3%20Days%20Later) - [집필 가이드](https://docs.google.com/presentation/d/1YmMycNs9kjtZL0eJ12M-EbjjoAd2x-hEoeiAPAHp3nc) / [샘플북](https://drive.google.com/open?id=1W4_c-4M3xW9H_q_qmDfe3cRfw8V83NUf) / [원고 템플릿](https://docs.google.com/document/d/1vbHEp6qoHGaNldRZ_fPl8G6rxDNHGzKwlMXchv6YdZw) ([간략 버전](https://docs.google.com/document/d/1YAeaIFkZ0Ql2ccSVAA-PoIjRMs-sttdOA4G6a0KbGvw)) / [프레젠테이션 템플릿](https://docs.google.com/presentation/d/17PpeoRzSp2tNB7ntVM_LTBKQo2nqji1QCQA1DNWuKds)
+- [작심3일](https://github.com/hanbitmedia/Writing-IT-Books/tree/master/3%20Days%20Later) - [집필 가이드](https://docs.google.com/presentation/d/1YmMycNs9kjtZL0eJ12M-EbjjoAd2x-hEoeiAPAHp3nc) / [샘플북](https://issuu.com/hanbit.co.kr/docs/___3______) / [원고 템플릿](https://docs.google.com/document/d/1vbHEp6qoHGaNldRZ_fPl8G6rxDNHGzKwlMXchv6YdZw) ([간략 버전](https://docs.google.com/document/d/1YAeaIFkZ0Ql2ccSVAA-PoIjRMs-sttdOA4G6a0KbGvw)) / [프레젠테이션 템플릿](https://docs.google.com/presentation/d/17PpeoRzSp2tNB7ntVM_LTBKQo2nqji1QCQA1DNWuKds)
 - [3분](https://github.com/hanbitmedia/Writing-IT-Books/tree/master/3%20Minutes) - [집필 가이드](https://docs.google.com/presentation/d/15tVoiYsdh030GmUIoCYh3jXeUp9xLYQ3dDXtn4ztMa8)
 - [Blog2Book](https://github.com/hanbitmedia/Writing-IT-Books/tree/master/Blog2Book) - [집필 가이드](https://docs.google.com/presentation/d/1HrkfpDKUFda38gJvxkwT9dFgIs1-D-usDe7ajMxg8UE)
 
