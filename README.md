@@ -1,4 +1,4 @@
-<img src="https://github.com/hanbitmedia/Writing-IT-Books/blob/master/images/logo2.png?raw=true" align="right" width="250"/>
+<img src="https://github.com/hanbitmedia/Writing-IT-Books/blob/master/images/logo2.png?raw=true" align="right" width="270"/>
 
 # 프로그래머의 책쓰기: 나도 IT 책 잘 쓰면 소원이 없겠네!
 
