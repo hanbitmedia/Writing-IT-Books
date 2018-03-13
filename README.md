@@ -92,3 +92,8 @@ IT 책 대부분에 적용할 수 있는 범용 집필 가이드(프로그래머
 
 - [페이스북](https://facebook.com/dev.loadmap)
 - [로드맵 모음](https://www.mindmeister.com/ko/users/channel/86528)
+
+
+# 저작권
+
+별도 언급이 없는 한, 이 저장소의 모든 저작물은 [크리에이티브 커먼즈 저작자표시-비영리-동일조건변경허락 4.0 국제 라이선스](http://creativecommons.org/licenses/by-nc-sa/4.0/)에 따라 이용할 수 있습니다.
