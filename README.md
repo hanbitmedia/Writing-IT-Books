@@ -1,6 +1,6 @@
-<img src="https://github.com/hanbitmedia/Writing-IT-Books/blob/master/images/logo3.PNG?raw=true" align="right" width="250"/>
-
 # 프로그래머의 책쓰기: 나도 IT 책 잘 쓰면 소원이 없겠네!
+
+<img src="https://github.com/hanbitmedia/Writing-IT-Books/blob/master/images/logo3.PNG?raw=true" align="right" width="250"/>
 
 프로그래머를 위한 책쓰기 요령을 공유하는 저장소입니다.
 
