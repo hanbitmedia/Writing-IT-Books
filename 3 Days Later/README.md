@@ -23,3 +23,12 @@
 다음은 <작심3일> 샘플북에 수록된 학습 일정표로, 이 패턴의 특징을 한눈에 보여줍니다.
 
 <img src="https://github.com/WegraLee/Writing-IT-Books/blob/master/3%20Days%20Later/%EC%9D%BC%EC%A0%95%ED%91%9C.png?raw=true" width="900">
+
+----
+
+### <작심3일>과 <3분>의 차이
+<작심3일 샘플북>은 <골빈해커의 3분 딥러닝> 원고를 재구성해 재작했습니다. 3분 딥러닝이 어떻게 작심3일이 되었는지는 아래 그림을 보시면 한 눈에 이해하실 수 있을 겁니다.
+
+<img src="https://github.com/hanbitmedia/Writing-IT-Books/blob/master/3%20Days%20Later/3%EB%B6%84vs%EC%9E%913.PNG?raw=true" width="900">
+
+그런데 <3분>에 있던 '실습 5'가 <작심3일>에는 보이지 않습니다. 이는 <3분>은 3일이라는 제약이 없어 분량을 원하는 만큼 늘릴 수 있음을 표현해본 것입니다.
