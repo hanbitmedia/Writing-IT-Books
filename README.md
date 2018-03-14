@@ -16,6 +16,10 @@ IT 책 대부분에 적용할 수 있는 범용 집필 가이드(프로그래머
 - [3분](https://github.com/hanbitmedia/Writing-IT-Books/tree/master/3%20Minutes) - [집필 가이드](https://docs.google.com/presentation/d/15tVoiYsdh030GmUIoCYh3jXeUp9xLYQ3dDXtn4ztMa8)
 - [Blog2Book](https://github.com/hanbitmedia/Writing-IT-Books/tree/master/Blog2Book) - [집필 가이드](https://docs.google.com/presentation/d/1HrkfpDKUFda38gJvxkwT9dFgIs1-D-usDe7ajMxg8UE)
 
+**포스트**
+
+- [<3분 딥러닝>은 어떻게 <작심3일>이 되었나?](https://github.com/hanbitmedia/Writing-IT-Books/blob/master/3%20Days%20Later/epilogue.md) _at 2018-03-14_
+
 **번역 가이드**
 - [어서 와! 번역은 처음이지?](https://www.slideshare.net/wegra/ss-52826286)
 
