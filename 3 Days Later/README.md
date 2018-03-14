@@ -31,4 +31,4 @@
 
 <img src="https://github.com/hanbitmedia/Writing-IT-Books/blob/master/3%20Days%20Later/3%EB%B6%84vs%EC%9E%913.PNG?raw=true" width="900">
 
-그런데 <3분>에 있던 '실습 5'가 <작심3일>에는 보이지 않습니다. 이는 <3분>은 3일이라는 제약이 없어 분량을 원하는 만큼 늘릴 수 있음을 표현해본 것입니다.
+그런데 <3분>에 있던 '실습 5'가 <작심3일>에는 보이지 않습니다. 이는 <3분>은 3일이라는 제약이 없어 분량을 원하는 만큼 늘릴 수 있음을 표현해본 것입니다. (자세한 설명은 [에필로그](https://github.com/hanbitmedia/Writing-IT-Books/blob/master/3%20Days%20Later/epilogue.md)를 참고하세요!)
