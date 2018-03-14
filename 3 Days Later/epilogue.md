@@ -36,4 +36,4 @@
 
 곧 예비 저자분들을 찾아 나서려 합니다. 취지에 공감해 함께 하고픈 분들, 좋은 콘텐츠를 가지고 계신 분들 먼저 연락 주시면 환영입니다!!! 그 외 <[프로그래머의 책쓰기](https://github.com/hanbitmedia/Writing-IT-Books)> 관련 피드백도 부탁합니다~
 
-_★ 연락은 [개앞맵시 페북](https://www.facebook.com/dev.loadmap)이나 제 회사 메일(bylee @@@@@ 하나에 hanbit.co.kr)로!!_
+_★ 소통 채널은 슬랙을 하나 열어서 업데이트하겠습니다._
