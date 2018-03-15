@@ -4,7 +4,7 @@
 
 > “블로그에서 바로 읽는 듯한 생생한 개발 노하우!”
 
-- [집필 가이드](https://docs.google.com/presentation/d/1HrkfpDKUFda38gJvxkwT9dFgIs1-D-usDe7ajMxg8UE)
+- [집필 가이드](https://github.com/hanbitmedia/Writing-IT-Books/blob/master/Blog2Book/%5BBlog2Book%5D%20%EC%A7%91%ED%95%84%20%EA%B0%80%EC%9D%B4%EB%93%9C-0313.pdf)
 
 ### 풀려는 문제는 무엇인가?
 
