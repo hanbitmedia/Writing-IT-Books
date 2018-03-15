@@ -4,7 +4,7 @@
 
 > “이론보다 코드로 먼저 배우는 개발자용 입문서! (짧은 예제 가득)”
 
-- [집필 가이드](https://docs.google.com/presentation/d/15tVoiYsdh030GmUIoCYh3jXeUp9xLYQ3dDXtn4ztMa8)
+- [집필 가이드](https://github.com/hanbitmedia/Writing-IT-Books/blob/master/3%20Minutes/%5B3%EB%B6%84%5D%20%EC%A7%91%ED%95%84%20%EA%B0%80%EC%9D%B4%EB%93%9C-0313.pdf)
 
 ### 풀려는 문제는 무엇인가?
 
