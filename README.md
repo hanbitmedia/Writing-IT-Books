@@ -18,7 +18,7 @@ IT 책 대부분에 적용할 수 있는 범용 집필 가이드(프로그래머
 
 **포스트**
 - [<프로그래머의 책쓰기> 또 다른 의도...](https://github.com/hanbitmedia/Writing-IT-Books/blob/master/articles/hidden_purposes.md) _at 2018-03-22_
-- [<3분 딥러닝>은 어떻게 <작심3일>이 되었나?](https://github.com/hanbitmedia/Writing-IT-Books/blob/master/3%20Days%20Later/epilogue.md) _at 2018-03-14_
+- [<3분 딥러닝>은 어떻게 <작심3일>이 되었나?](https://github.com/hanbitmedia/Writing-IT-Books/blob/master/articles/3dayslater_epilogue.md) _at 2018-03-14_
 
 **번역 가이드**
 - [어서 와! 번역은 처음이지?](https://www.slideshare.net/wegra/ss-52826286)
