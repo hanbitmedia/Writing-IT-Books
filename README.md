@@ -17,7 +17,7 @@ IT 책 대부분에 적용할 수 있는 범용 집필 가이드(프로그래머
 - [Blog2Book](https://github.com/hanbitmedia/Writing-IT-Books/tree/master/Blog2Book) - [집필 가이드](https://github.com/hanbitmedia/Writing-IT-Books/blob/master/Blog2Book/%5BBlog2Book%5D%20%EC%A7%91%ED%95%84%20%EA%B0%80%EC%9D%B4%EB%93%9C-0313.pdf)
 
 **포스트**
-
+- [<프로그래머의 책쓰기> 또 다른 의도...](https://github.com/hanbitmedia/Writing-IT-Books/blob/master/articles/hidden_purposes.md) _at 2018-03-22_
 - [<3분 딥러닝>은 어떻게 <작심3일>이 되었나?](https://github.com/hanbitmedia/Writing-IT-Books/blob/master/3%20Days%20Later/epilogue.md) _at 2018-03-14_
 
 **번역 가이드**
