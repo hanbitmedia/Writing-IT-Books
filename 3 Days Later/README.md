@@ -5,7 +5,7 @@
 - [집필 가이드](https://github.com/hanbitmedia/Writing-IT-Books/blob/master/3%20Days%20Later/%5B%EC%9E%91%EC%8B%AC3%EC%9D%BC%5D%20%EC%A7%91%ED%95%84%20%EA%B0%80%EC%9D%B4%EB%93%9C-0327.pdf) / [샘플북](https://issuu.com/hanbit.co.kr/docs/___3______) / [원고 템플릿](https://docs.google.com/document/d/1vbHEp6qoHGaNldRZ_fPl8G6rxDNHGzKwlMXchv6YdZw) ([간략 버전](https://docs.google.com/document/d/1YAeaIFkZ0Ql2ccSVAA-PoIjRMs-sttdOA4G6a0KbGvw)) / [프레젠테이션 템플릿](https://docs.google.com/presentation/d/17PpeoRzSp2tNB7ntVM_LTBKQo2nqji1QCQA1DNWuKds)
 
 ### 풀려는 문제는 무엇인가?
-자고 일어나면 쏟아지는 신기술들… 우리 직장 개발자는 바쁜 일생으로, 당장 필요한 기술이 아니면 시작할 엄두를 못 냅니다. 그러다 보니 신기술 습득에 게을러지고, 그럴수록 뒤처진다는 느낌에 신기술 찾기 자체를 멀리한다. (악순환)
+자고 일어나면 쏟아지는 신기술들… 우리 직장 개발자는 바쁜 일상으로, 당장 필요한 기술이 아니면 시작할 엄두를 못 냅니다. 그러다 보니 신기술 습득에 게을러지고, 그럴수록 뒤처진다는 느낌에 신기술 찾기 자체를 멀리한다. (악순환)
 
 ### 어떻게 풀 것인가?
 
